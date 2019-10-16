@@ -1,0 +1,245 @@
+{
+    "work_time": [
+        [
+            8,
+            30
+        ],
+        [
+            18,
+            0
+        ]
+    ],
+    "lunch_break": [
+        [
+            12,
+            0
+        ],
+        [
+            13,
+            30
+        ]
+    ],
+    "fines": [
+        [
+            5,
+            2
+        ],
+        [
+            8,
+            5
+        ],
+        [
+            15,
+            7
+        ],
+        [
+            1440,
+            10
+        ]
+    ],
+    "member": {
+        "周燕": {
+            "email": "",
+            "bank_card": "",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 08:30",
+            "out_date": "2019-03-18 08:30"
+        },
+        "冼云鹏": {
+            "email": "xian.yp@joymeng.com",
+            "bank_card": "6214 8373 1873 6307",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 13:08",
+            "out_date": "9999-03-18 08:30"
+        },
+        "黄华": {
+            "email": "huang.h@joymeng.com",
+            "bank_card": "6214 8373 1929 5667 ",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 13:10",
+            "out_date": "9999-03-18 08:30"
+        },
+        "李林聪": {
+            "email": "li.lc@joymeng.com",
+            "bank_card": "6214 8374 0041 2577",
+            "profession": "程序",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 13:11",
+            "out_date": "9999-03-18 08:30"
+        },
+        "860305": {
+            "email": "",
+            "bank_card": "",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 08:30",
+            "out_date": "2019-03-18 08:30"
+        },
+        "彭威": {
+            "email": "peng.w@joymeng.com",
+            "bank_card": "6214 8374 0117 1875",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 13:16",
+            "out_date": "9999-03-18 08:30"
+        },
+        "张宁芳": {
+            "email": "zhang.nf@joymeng.com",
+            "bank_card": "6214 8373 1652 1487",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 17:16",
+            "out_date": "9999-03-18 08:30"
+        },
+        "李坤运": {
+            "email": "li.ky@joymeng.com",
+            "bank_card": "6214 8301 7669 1581",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-25 09:47",
+            "out_date": "9999-03-18 08:30"
+        },
+        "曹骏": {
+            "email": "cao.jun@joymeng.com",
+            "bank_card": "6214 8327 2583 0488",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-04-01 09:21",
+            "out_date": "9999-03-18 08:30"
+        },
+        "安建宇": {
+            "email": "",
+            "bank_card": "",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-04-08 09:53",
+            "out_date": "2019-04-09 18:00"
+        },
+        "胡麒麟": {
+            "email": "hu.ql@joymeng.com",
+            "bank_card": "6214 8320 2186 1179",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-04-09 08:57",
+            "out_date": "9999-03-18 08:30"
+        },
+        "李强": {
+            "email": "li.qiang1@joymeng.com",
+            "bank_card": "6214 8374 0139 1143",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-04-09 08:59",
+            "out_date": "9999-03-18 08:30"
+        },
+        "刘旭华": {
+            "email": "liu.xh@joymeng.com",
+            "bank_card": "6214 8302 0339 9208",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-04-09 09:57",
+            "out_date": "9999-03-18 08:30"
+        },
+        "韩铮": {
+            "email": "han.zheng@joymeng.com",
+            "bank_card": "6214 8374 0116 9168",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-04-11 09:04",
+            "out_date": "9999-03-18 08:30"
+        },
+        "潘晓杰": {
+            "email": "0",
+            "bank_card": "0",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-04-18 08:55",
+            "out_date": "2019-07-25 18:00"
+        },
+        "宋兵": {
+            "email": "song.bing@joymeng.com",
+            "bank_card": "6214 8374 0116 4391",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-05-05 09:11",
+            "out_date": "9999-03-18 08:30"
+        },
+        "田正华": {
+            "email": "",
+            "bank_card": "",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-05-15 09:13",
+            "out_date": "2019-06-13 18:00"
+        },
+        "李立": {
+            "email": "",
+            "bank_card": "",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-03-18 08:30",
+            "out_date": "2019-03-18 08:30"
+        },
+        "沈玲": {
+            "email": "",
+            "bank_card": "",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-06-21 09:07",
+            "out_date": "2019-07-12 15:35"
+        },
+        "谭丁": {
+            "email": "tan.d@joymeng.com",
+            "bank_card": "6214 8374 0265 8946",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-07-17 09:35",
+            "out_date": "9999-03-18 08:30"
+        },
+        "候进": {
+            "email": "1",
+            "bank_card": "1",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-09-02 09:11",
+            "out_date": "2019-09-03 18:00"
+        },
+        "刘博": {
+            "email": "",
+            "bank_card": "",
+            "profession": "",
+            "department_1": "",
+            "department_2": "",
+            "in_date": "2019-09-16 10:08",
+            "out_date": "9999-03-18 08:30"
+        }
+    },
+    "settings": {
+        "detail_table_path": "",
+        "summary_table_path": "",
+        "out_path": "E:/OutXLSX"
+    }
+}
